@@ -3,7 +3,7 @@
 # Homework - Module 02
 # README for Stock Analysis Project
 
-Created:		2023-09-24
+Created:		2023-09-19
 
 Author:			Adrian Santos
 
